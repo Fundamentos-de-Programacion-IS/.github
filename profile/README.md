@@ -12,14 +12,17 @@ A continuación, un resumen de las sesiones disponibles:
 | Módulo | Tema | Contenido |
 |--------|------|----------|
 | 00     | Presentación del curso | Objetivos, metodología y evaluación. |
-| 01     | Introducción | Conceptos básicos y primer contacto. |
-| 02     | Expresiones y tipos | Tipos de datos, operadores y evaluación. |
+| 01     | Introducción a Python | Conceptos básicos y primer contacto con el lenguaje. |
+| 02     | Expresiones y tipos en Python | Tipos de datos, operadores y evaluación de expresiones. |
 | 03     | Condicionales y bucles | Estructuras de control de flujo. |
-| 04     | Funciones | Definición, argumentos y retorno. |
-| 05     | Secuencias: tuplas y listas | Colecciones ordenadas y operaciones. |
-| 06     | Entrada y salida | Captura de datos, escritura en archivos. |
-| 07     | Buenas prácticas en Python | Estilo PEP 8, documentación y herramientas de soporte. |
-| 08     | Objetos y dataclasses | Modelado de entidades y uso de `dataclass`. |
+| 04     | Funciones iterativas y recursivas | Definición, argumentos, retorno y recursividad. |
+| 05     | Listas, tuplas y cadenas en Python | Colecciones ordenadas y operaciones sobre secuencias. |
+| 06     | Diccionarios y conjuntos en Python | Colecciones desordenadas, claves y operaciones de conjunto. |
+| 07     | Entrada y salida de ficheros en Python | Captura de datos por teclado y lectura/escritura de archivos. |
+| 08     | Buenas prácticas en Python | Estilo PEP 8, documentación y herramientas de soporte. |
+| 09     | Objetos y dataclasses en Python | Modelado de entidades y uso de `dataclass`. |
+| 10     | Funciones lambda en Python | Funciones anónimas, `map`, `filter` y programación funcional. |
+| 11     | Patrones en laboratorios y exámenes | Estrategias y patrones recurrentes para pruebas prácticas. |
 
 > Todas las presentaciones están disponibles en la [página del curso](https://fundamentos-de-programacion-is.github.io/slides/) para su consulta e impresión.
 
