@@ -13,7 +13,7 @@ cuatrimestre, fechas evaluables, hitos y laboratorios.
 | Dónde | Qué es |
 |---|---|
 | [**Transparencias**](https://fundamentos-de-programacion-is.github.io/slides/) | Los doce temas, con ejemplos ejecutables y versión en PDF |
-| `2627-M1-Turtle` · `2627-M2-Arkanoid` · `2627-M3-Memory` | Plantillas de los tres hitos. Se usan con **«Use this template»**, ya no con *fork* |
+| `2627-M1-Turtle` · `2627-M2-Arkanoid` · `2627-M3-Memory` | Plantillas de los tres hitos. Se usan con **«Use this template»**, ya no con *fork*. **Cada hito se abre al entregarse el anterior**: M2 el 8 de octubre y M3 el 12 de noviembre |
 | [`2627-LAB-*` y `2627-TEO-*`](https://github.com/orgs/Fundamentos-de-Programacion-IS/repositories?q=topic%3Alaboratorio) | Enunciados de laboratorio. **Cada uno se abre el día de su sesión**, así que la lista va creciendo durante el cuatrimestre |
 | [`TEO-Training_Session_*`](https://github.com/orgs/Fundamentos-de-Programacion-IS/repositories?q=topic%3Aentrenamiento) | Ejercicios de autoestudio |
 | [`AAAA-EXA-*`](https://github.com/orgs/Fundamentos-de-Programacion-IS/repositories?q=topic%3Aexamen) | Exámenes de convocatorias anteriores, para entrenar |
