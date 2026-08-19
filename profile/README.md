@@ -10,17 +10,17 @@ cuatrimestre, fechas evaluables, hitos y laboratorios.
 
 ## Cómo está organizada esta organización
 
-| Repositorio | Qué es |
+| Dónde | Qué es |
 |---|---|
-| [`slides`](https://github.com/Fundamentos-de-Programacion-IS/slides) | Transparencias de los doce temas. También en [web](https://fundamentos-de-programacion-is.github.io/slides/) y en PDF |
-| [`fundamentos-de-programacion-is.github.io`](https://github.com/Fundamentos-de-Programacion-IS/fundamentos-de-programacion-is.github.io) | La portada de la asignatura |
+| [**Transparencias**](https://fundamentos-de-programacion-is.github.io/slides/) | Los doce temas, con ejemplos ejecutables y versión en PDF |
 | `2627-M1-Turtle` · `2627-M2-Arkanoid` · `2627-M3-Memory` | Plantillas de los tres hitos. Se usan con **«Use this template»**, ya no con *fork* |
-| [`LAB-*`](https://github.com/orgs/Fundamentos-de-Programacion-IS/repositories?q=topic%3Alaboratorio) | Enunciados de las sesiones de laboratorio |
+| [`2627-LAB-*` y `2627-TEO-*`](https://github.com/orgs/Fundamentos-de-Programacion-IS/repositories?q=topic%3Alaboratorio) | Enunciados de laboratorio. **Cada uno se abre el día de su sesión**, así que la lista va creciendo durante el cuatrimestre |
 | [`TEO-Training_Session_*`](https://github.com/orgs/Fundamentos-de-Programacion-IS/repositories?q=topic%3Aentrenamiento) | Ejercicios de autoestudio |
 | [`AAAA-EXA-*`](https://github.com/orgs/Fundamentos-de-Programacion-IS/repositories?q=topic%3Aexamen) | Exámenes de convocatorias anteriores, para entrenar |
 
-Los repositorios de cursos pasados llevan el año por delante (`2526.1C.M1`, `2425-EXA-1P-MotoFP`…)
-y están **archivados**: se pueden consultar, pero ya no se modifican.
+Todo lo del curso lleva el año por delante: `2627-` es este curso. Lo de cursos pasados
+(`2526.1C.M1`, `2425-EXA-1P-MotoFP`, `LAB-*` sin prefijo…) está **archivado**: se puede
+consultar, pero ya no se modifica.
 
 ## Temario
 
