@@ -45,7 +45,6 @@ consultar, pero ya no se modifica.
 
 ## Dónde se resuelven las dudas
 
-* **[Wiki de la asignatura](https://1984.lsi.us.es/wiki-fp/)** — normativa e información oficial.
 * **[Canal de Telegram](https://t.me/fundamentos_de_programacion)** — anuncios del día a día.
 * **[Enseñanza Virtual](https://ev.us.es/)** — entrega de los hitos y calificaciones.
 
